@@ -1,0 +1,9 @@
+C:\Repo\Pranesh\SnakeGame\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Repo\Pranesh\SnakeGame\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Repo\Pranesh\SnakeGame\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Repo\Pranesh\SnakeGame\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Repo\Pranesh\SnakeGame\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Repo\Pranesh\SnakeGame\Snake\Snake\bin\Debug\Snake.exe
+C:\Repo\Pranesh\SnakeGame\Snake\Snake\bin\Debug\Snake.pdb
+C:\Repo\Pranesh\SnakeGame\Snake\Snake\obj\Debug\Snake.exe
+C:\Repo\Pranesh\SnakeGame\Snake\Snake\obj\Debug\Snake.pdb
